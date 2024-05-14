@@ -1,4 +1,4 @@
-// This is a simple bubble-sort algorithm that takes in terminal a numeric value, representing count of random values that will be sorted
+// This is a simple bubble-sort algorithm that takes in terminal a numeric value, representing count of random values that will be sorted and sorts the numbers by the sum of their digits
 
 #include <stdio.h>
 #include <stdlib.h>
