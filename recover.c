@@ -1,4 +1,4 @@
-# This is a program from my CS50 course, that reads a binary file and finds JPEG images if there are any
+# This is a program from my CS50 course, that reads a binary file by name passed in the terminal and finds JPEG images if there are any
 
 #include <cs50.h>
 #include <stdio.h>
